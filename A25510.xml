@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Answer of the new converts of France to a pastoral letter from a Protestant minister done out of the French copy publish'd there with permission.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25510</idno>
+            <idno type="STC">Wing A3297</idno>
+            <idno type="STC">ESTC R12752</idno>
+            <idno type="EEBO-CITATION">12647359</idno>
+            <idno type="OCLC">ocm 12647359</idno>
+            <idno type="VID">65173</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25510)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65173)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 340:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Answer of the new converts of France to a pastoral letter from a Protestant minister done out of the French copy publish'd there with permission.</title>
+               </titleStmt>
+               <extent>[3], 17 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Publish'd with allowance"</note>
+                  <note>Reproduction of original in Newberry Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic converts --  France.</term>
+               <term>Lord's Supper --  Catholic Church --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65173:1"/>
+            <pb facs="tcp:65173:1" rendition="simple:additions"/>
+            <p>THE ANSWER OF <hi>The New Converts</hi> OF FRANCE, TO <hi>A Paſtoral Letter</hi> FROM A <hi>PROTESTANT MINISTER.</hi>
+            </p>
+            <p>Done out of the <hi>French</hi> Copy Publiſh'd there with Permiſſion.</p>
+            <p>
+               <hi>Publiſh'd with Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's moſt Excellent Majeſty, for his Houſhold and Chappel. 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:65173:2"/>
+            <pb n="1" facs="tcp:65173:2" rendition="simple:additions"/>
+            <head>THE ANSWER OF THE NEW CONVERTS OF FRANCE, To a Paſtoral Letter from a <hi>Proteſtant</hi> Miniſter.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is not, Sir, to give you an Account of our Conduct that we now write to you; we know you are not in the Circumſtance of approving it, and we are much troubled at it. Nor is it to Anſwer either your injurious Lan<g ref="char:EOLhyphen"/>guage, or your Menaces; the Holy Ghoſt confirms us againſt them both, when he
+<pb n="2" facs="tcp:65173:3"/>tells us,<note place="margin">1 Pet. 3.13, 14.</note> 
+               <hi>Who is he that can hurt you, if you do only that which is good; but and if you ſuffer for Juſtice ſake, you ſhall be happy. Fear not what they would make you fear, nor trouble your ſelves; but ſanctifie our Lord God in your hearts, and be always ready to ſatisfie every one that asks you a reaſon of the hope which is in you.</hi> It is therefore in obe<g ref="char:EOLhyphen"/>dience to theſe laſt words we have now broken that profound Silence, in which the Moderation that our Faith, as yet but tender, inſpires into us, would retain us, were we not oblig'd to render an Account of that Faith, and to hinder the weak from being ſcandaliz'd at the Reproaches you have caſt upon us, and the Church from being diſhonor'd by thoſe who are not happy enough to know her. We ſhall not diſtinguiſh among us, as you have done, the <hi>Libertines,</hi> thoſe <hi>Chriſtians</hi> whom you call <hi>cowardly;</hi> nor thoſe whom you think you honor by the name of ſimple <hi>Apo<g ref="char:EOLhyphen"/>ſtates:</hi> becauſe we cannot believe, but that Diviſion was rather a Figure and an Artifice then any real Effect of your Sincerity. For we are perſwaded there is not one of theſe
+<pb n="3" facs="tcp:65173:3"/>three pretended States, tho' never ſo Im<g ref="char:EOLhyphen"/>pious and Libertine, but your Zeal would willingly draw back again into your Party, and not one but you would rejoyce to ſee become a Martyr for your Religion. The haſte you would thereupon make to re<g ref="char:EOLhyphen"/>voke the Sentence againſt them, ſhould make you conſider with how much raſh<g ref="char:EOLhyphen"/>neſs you have paſs'd it. Doubtleſs, Sir, you never thought of this, when you durſt pronounce, <hi>There was no further ſacrifice remaining for their ſins,</hi> and like a God upon Earth, condemn'd them <hi>to devouring Flames.</hi>
+            </p>
+            <p>Without examining too nicely this Judg<g ref="char:EOLhyphen"/>ment, God himſelf lets us ſee the raſhneſs, of it,<note place="margin">Pſal. 109.</note> when he aſſures us the Prieſthood of <hi>Jeſus Chriſt</hi> ſhall never have an end, be<g ref="char:EOLhyphen"/>cauſe he will offer eternally the Sacrifice of his Croſs for the Redemption of Sinners. <hi>The tranſgreſſions even of the wicked,</hi>
+               <note place="margin">Ezek. 18.22, 23.</note> ſay what you will, <hi>God will not remember,</hi> as the Scripture tells us, <hi>from the moment he con<g ref="char:EOLhyphen"/>verts himſelf from them:</hi> for <hi>I will not</hi> (ſaith the Lord by the mouth of his Prophet) <hi>the death of a ſinner, but that he ſhould return
+<pb n="4" facs="tcp:65173:4"/>from his wickedneſs and live.</hi> But without doubt you will ſay this Converſion conſiſts in returning into your Church, which in your Letter you invite us to. But can this Propoſition move a <hi>Chriſtian,</hi> if it could not have been propos'd to him through every Age. ſince the Death of <hi>Jeſus Chriſt?</hi> And could this have been done Two hun<g ref="char:EOLhyphen"/>dred years ſince, before you had any ſuch thing as a Church? It is of no purpoſe to tell us, as we have ſo often heard, That your Church ſubſiſted always, but that it was inviſible. For can the Church ſubſiſt without Faith;<note place="margin">Rom. 10.14.</note> and Faith, ſaith St. <hi>Paul,</hi> without Preaching; and Preaching with<g ref="char:EOLhyphen"/>out ſome Action that is both publick and viſible? Have not you your ſelves taught us,<note place="margin">Conf. de Foy. <hi>28.</hi>
+               </note> That <hi>where the Word of God is not re<g ref="char:EOLhyphen"/>ceived, and where the Sacraments are not in uſe, no Man can judge, properly ſpeaking, that there is a Church.</hi> All theſe <hi>Conſequen<g ref="char:EOLhyphen"/>ces</hi> have they not made you own, That at that time <hi>the State of the Church was diſ<g ref="char:EOLhyphen"/>continu'd?</hi> How then could any one pro<g ref="char:EOLhyphen"/>poſe to a <hi>Neophyte</hi> to embrace that Faith which they could not make him know?
+<pb n="5" facs="tcp:65173:4"/>Nevertheleſs can we, Sir, believe, that for ſo vaſt a time, that according to your ſelves is from the Fourth or Fifth Age to this day, in which you tell us the viſible Church, which was no other but the <hi>Roman,</hi> was fill'd with Errors, or at leaſt ſince the Tenth Age, when you aſſure us ſhe was fall'n into all manner of Superſtitions and Idolatries: Can we (I ſay) believe, that during ſo long a ſpace of years, the Gates of Heaven were ſhut, the Blood and Death of <hi>Jeſus Chriſt</hi> were ineffectual, the Kingdom of the Saviour of Mankind ceaſed, and the Em<g ref="char:EOLhyphen"/>pire of the Devil was full, entire, and ab<g ref="char:EOLhyphen"/>ſolute within the Houſe of the Son of God? Do's not <hi>Jeſus Chriſt</hi> himſelf teach us to the contrary,<note place="margin">S. Mat. 16.18. S. Luc. 22.32. S. John 14.16.</note> That <hi>the gates of hell ſhall not prevail againſt his Church? and that he has pray'd for her, that her faith ſhall never fail;</hi> in ſhort, that <hi>the holy Spirit ſhall re<g ref="char:EOLhyphen"/>main with her for ever?</hi>
+            </p>
+            <p>We formerly, Sir, believ'd according to the ancient Principles you taught us, That is was enough to ſhew the truth of theſe words; That there was a ſmall number of the Faithful who liv'd according to out<g ref="char:EOLhyphen"/>ward
+<pb n="6" facs="tcp:65173:5"/>appearances, in the Communion of the <hi>Roman</hi> Church, but whoſe Hearts you aſſur'd us never adher'd to its Worſhip; But now you not only bid us <hi>preſerve our ſelves from that Illuſion,</hi> but alſo tell us, that <hi>nothing is more criminal then ſuch a thought; That ſuch a Devotion is injurious to God; That God requires all or nothing; and that ſince he is the Redeemer of both, he will be glorifi'd by both. For 'tis not enough</hi> (ſay you after St. <hi>Paul</hi>) <hi>to believe in your heart to juſtice; but you muſt profeſs it with your mouth to ſalvation.</hi> We believe you, Sir, and we acknowledge our ſelves oblig'd to you for ſo kindly contributing to confirm us more and more in the Church we are ſo lately enter'd into, by leaving us no fur<g ref="char:EOLhyphen"/>ther doubt of the newneſs of yours: For from henceforth where can we believe your Church ſubſiſted during ſo many Ages, when you had neither Temples, nor Service, nor Aſſembly, nor Preachers, nor Sacra<g ref="char:EOLhyphen"/>ments, nor Faithful? You have endeavor'd hitherto to come off by telling us, as occaſi<g ref="char:EOLhyphen"/>on ſerv'd, ſometimes that it was viſible, and ſometimes that it was inviſible. You ſaid your
+<pb n="7" facs="tcp:65173:5"/>ſelf to <hi>M. de Meaux,</hi> That <hi>before the</hi> Refor<g ref="char:EOLhyphen"/>mation,<note place="margin">
+                  <hi>P.</hi> 120.</note> 
+               <hi>the truly Faithful were mingled with the reſt in the ſame outward Profeſſion.</hi> But thanks be to Heaven, we are now likewiſe taught by you, that we cannot believe <hi>with<g ref="char:EOLhyphen"/>out Illuſion, That one of the Faithful can pre<g ref="char:EOLhyphen"/>ſerve himſelf in the outward Communion of the</hi> Roman <hi>Church, altho' his Heart do's not in<g ref="char:EOLhyphen"/>cline to the Worſhip; and that there is no<g ref="char:EOLhyphen"/>thing more criminal then ſuch a thought.</hi> There remains then no further doubt, but that, according to your ſelves, not only the State of the Church, but even the Church it ſelf, to make uſe of your own Diſtinctions, was diſcontinu'd and abroga<g ref="char:EOLhyphen"/>ted for the ſpace of many Ages, for that it could not maintain it ſelf within the Com<g ref="char:EOLhyphen"/>munion of the <hi>Roman,</hi> which alone had Churches and publick Worſhip: How can we reconcile this with what the Holy Ghoſt teaches us, That the Church is the Handy-work of the Son of God;<note place="margin">Epheſ. 5.25, 26, 27.</note> 
+               <hi>That ſhe is his moſt dear and faithful Spouſe, that he pur<g ref="char:EOLhyphen"/>chaſed upon the Croſs by the Effuſion of his moſt precious Blood; That he himſelf is the Head;</hi>
+               <note place="margin">1 Tim. 3.15.</note> 
+               <hi>That ſhe is the Pillar and Ground of
+<pb n="8" facs="tcp:65173:6"/>Truth; That ſhe is to be our Judge in all our Controverſies,</hi>
+               <note place="margin">S. Mat. 18.17.</note> and ſo Infallible, <hi>that whoſo<g ref="char:EOLhyphen"/>ever do's not ſubmit to her Deciſions, is to be eſteem'd as a Heathen or Publican;</hi> in ſhort, <hi>That he will never forſake her, and that he will be always with her to the end of the World?</hi> A <hi>Chriſtian</hi> inſtructed in ſuch Leſ<g ref="char:EOLhyphen"/>ſons drawn out of the Holy Writ, can he find any difficulty to incline favourably towards the <hi>Roman</hi> Church, which you your ſelves confeſs has ſtood from <hi>Jeſus Chriſt</hi> and the Apoſtles down to this Day, either in full Purity, or at leaſt with ſome Alterations that you pretend have crept into it? We will not enter into an Exami<g ref="char:EOLhyphen"/>nation of the Errors that you impute to it, that is not now our Buſineſs: but we muſt needs ſay for our own Juſtification, That among thoſe that gave us the greateſt hor<g ref="char:EOLhyphen"/>ror, there are ſome of them in which we ſee you had more Obſtinacy on your ſides then Reaſon.</p>
+            <p>The <hi>Real Preſence,</hi> for Example, of <hi>Jeſus Chriſt</hi> in the <hi>Euchariſt,</hi> was always repre<g ref="char:EOLhyphen"/>ſented to us as a Rock of Scandal in the <hi>Roman</hi> Church, as a Shelve to Shipwrack
+<pb n="9" facs="tcp:65173:6"/>Salvation, and as a Monſter in Religion: yet this Doctrine, deteſtable as it is, was nevertheleſs receiv'd into your Church, and into your Communion with the <hi>Lutherans,</hi> who never doubted of it, and Preach'd it publickly. It is in vain to tell us, The <hi>Lutherans</hi> 'tis true believe that <hi>Jeſus Chriſt</hi> is preſent in the <hi>Sacrament,</hi> but they don't adore him: For not only your own Wri<g ref="char:EOLhyphen"/>ters, as <hi>Calvin, Beza,</hi> and others, condemn their Practice in this, but maintain, That if <hi>Jeſus Chriſt</hi> be in the Bread, he ought to be there adored: And your own Church has declar'd by the Mouth of <hi>Daillé,</hi>
+               <note place="margin">
+                  <hi>P.</hi> 66.</note> That <hi>if the Subject matter which is call'd the Sacra<g ref="char:EOLhyphen"/>ment of the Euchariſt, be in its ſubſtance not Bread, as ſhe believes, but the Body of Chriſt, as thoſe of</hi> Rome <hi>hold, it is evident that it may and ought to be ador'd, becauſe the Body of Chriſt is an adorable Subject:</hi> Seeing then according to you it is allow'd to believe, that <hi>Jeſus Chriſt</hi> is in the <hi>Sacrament;</hi> it ought likewiſe to be permitted, according to your own Tenets, and according to your own Authors, thoſe who believe him preſent, are oblig'd to adore him there. So
+<pb n="10" facs="tcp:65173:7"/>that properly ſpeaking, the Adoration of the <hi>Sacrament</hi> is nothing elſe but a Cavil that you make with the Church of <hi>Rome,</hi> to colour your Diviſion: As the Com<g ref="char:EOLhyphen"/>munion under one Species is another much more viſible, and as ill grounded.</p>
+            <p>
+               <hi>Every one</hi> (ſay you) <hi>ought indifferently to receive the Cup,</hi>
+               <note place="margin">
+                  <hi>Dim.</hi> 53.</note> 
+               <hi>according to the Command of</hi> Jeſus Chriſt, <hi>againſt which it is unlaw<g ref="char:EOLhyphen"/>ful to attempt any thing.</hi> By this Article of your Faith we have been always poſſeſs'd with a belief of the neceſſity of Commu<g ref="char:EOLhyphen"/>nion in both Kinds, and always thought the contrary Practice an overthrowing of the Conſtitution of the <hi>Sacrament:</hi> nor ſhould we yet have doubted of it, had not your own Practice at length open'd our Eyes, and diſabus'd us. But now when we hear you determine in your Diſcipline, <hi>That the Bread alone ought to be Adminiſtred to ſuch as cannot drink Wine,</hi>
+               <note place="margin">
+                  <hi>Art.</hi> 7. <hi>c.</hi> 12.</note> 
+               <hi>provided they make a Proteſtation that it is not through contempt:</hi> Now when we ſee this Cuſtom eſtabliſh'd in your own Temples, why do you condemn that in the Church of <hi>Rome,</hi> which you allow and practice in your
+<pb n="11" facs="tcp:65173:7"/>own? If the Command of the Cup be poſitive, it is indiſpenſible; if the Com<g ref="char:EOLhyphen"/>munion in both Kinds be of Divine Inſti<g ref="char:EOLhyphen"/>tution, it cannot admit of a Modification. But (ſay you) are we oblig'd to Impoſſibi<g ref="char:EOLhyphen"/>lities? Without examining this pretended Impoſſibility, which you ſuppoſe in the Faithful upon very ſlight Grounds, we will ſuppoſe it with you. But ought this want of Poſſibility in any to receive a <hi>Sacra<g ref="char:EOLhyphen"/>ment,</hi> deſtroy the <hi>Sacrament?</hi> This In<g ref="char:EOLhyphen"/>firmity may diſpence with a Perſon from Receiving the <hi>Sacrament,</hi> and juſtifie his abſtaining from it: but it can juſtifie neither Miniſter nor Church that gives it ſo divi<g ref="char:EOLhyphen"/>ded and ſeparated, if God has declar'd it indiviſible and inſeparable. In fine, if the retrenchment of one of the Species be a violation of the <hi>Sacrament,</hi> and of the Command of <hi>Jeſus Chriſt,</hi> no Church nor Reaſon can authorize it. What can we then conclude, when we ſee your Church, as well as that of <hi>Rome,</hi> practiſe the ſame Retrenchment, but that the Communion in both Kinds is neither of neceſſity, nor commanded.</p>
+            <pb n="12" facs="tcp:65173:8"/>
+            <p>It is much the ſame concerning the <hi>Real Preſence.</hi> A Man that beholds <hi>Chriſtianity</hi> divided between the Adherents of <hi>Rome; Luther,</hi> and <hi>Calvin,</hi> and finds that by the Doctrine taught in the Churches of the two firſt, it is abſolutely neceſſary for his Sal<g ref="char:EOLhyphen"/>vation to believe, That <hi>Jeſus Chriſt</hi> is really and ſubſtantially in the <hi>Euchariſt;</hi> and hears you your ſelves ſaying, That <hi>this Belief,</hi> a<g ref="char:EOLhyphen"/>gainſt which you are ſuch declar'd Ene<g ref="char:EOLhyphen"/>mies, <hi>is no obſtacle to Salvation;</hi>
+               <note place="margin">Daillé Apol. p. <hi>43.</hi>
+               </note> 
+               <hi>that it contains nothing contrary either to Piety or Charity, or the Honor due to God, or the Welfare of Mankind;</hi> could this Man de<g ref="char:EOLhyphen"/>termine with himſelf to follow any other Doctrine then that which he is aſſur'd of on all Sides to be abſolutely neceſſary, or at leaſt no way prejudicial to Salvation?</p>
+            <p>Believe us, Sir, theſe inſenſible, tho' im<g ref="char:EOLhyphen"/>portant Steps of yours, have had greater power over our Conſciences, then all the Dragoons, ſo terrible and ſo barbarous as your Pen has ſtudy'd to deſcribe them. But ſuppoſe the apprehenſion of them had made ſome of us reflect upon theſe things, which perhaps we had otherwiſe never ſo
+<pb n="13" facs="tcp:65173:8"/>much as thought of; would this conclude any thing but what St. <hi>Paul</hi> ſaith, That <hi>Kings are Gods Miniſters for our good?</hi> Can you blame any <hi>Chriſtians</hi> for Examining the Cauſes of a Perſecution before it comes upon them, ſince <hi>Jeſus Chriſt</hi> has pro<g ref="char:EOLhyphen"/>mis'd to recompence only ſuch as ſuffer for his and for Juſtice ſake? The Spirit of the Goſpel, do's it oblige us to meet Death boldly for Error, or for Truth? or is it the Suffering, or the Cauſe for which they ſuffer, that makes the Martyrs? If the Cauſe then be found to be Man's, and not that of God's, have you reaſon to diſclaim againſt thoſe who have only avoided tempo<g ref="char:EOLhyphen"/>ral Puniſhments, to preſerve themſelves from thoſe which are more terrible and eternal? 'Tis then the proof of this Cauſe that de<g ref="char:EOLhyphen"/>ſerves your nearer application. Do not think to excuſe your ſelves by reaſon of the too great extent ſuch an Examination appears to have, to fill us with greater Confuſion and Sorrow for leaving your Church; you needed only to convince us of this one Ar<g ref="char:EOLhyphen"/>ticle of your Faith, which ſaith,<note place="margin">Art. <hi>31.</hi>
+               </note> That <hi>God rais'd up certain Men in an extraordinary man<g ref="char:EOLhyphen"/>ner,
+<pb n="14" facs="tcp:65173:9"/>to Model the Church anew, that was fall'n into Ruine and Deſolation;</hi> Convince us, we ſay, but of this, and we ſhall always think our ſelves miſerable for being ſuch Rebels againſt the Order of Divine Providence, and endeavouring by our Infidelity to de<g ref="char:EOLhyphen"/>ſtroy the Work of God. But you cry, It is in vain, ſeeing we can't believe it to be the Work of God, nor have any faith for this extraordinary Miſſion.
+'Tis true, <hi>Zuinglius, Luther,</hi>
+               <note place="margin">Luth. Tract. de Ver. Eccl. Reform. Calv. Inſtit. lib. <hi>4.</hi> cap. <hi>3.</hi> Sect. <hi>4. St. John 5.31.</hi>
+               </note> and <hi>Calvin</hi> have born that Teſti<g ref="char:EOLhyphen"/>mony of themſelves: 'Tis true, they have given themſelves the Titles of <hi>Apoſtles</hi> and <hi>Evangeliſts;</hi> but ſince <hi>Jeſus Chriſt</hi> has ſaid, ſpeaking of himſelf, <hi>If I bear teſtimony of my ſelf, my teſtimony is not true,</hi> what credit can that Teſtimony claim that your Pa<g ref="char:EOLhyphen"/>triarchs have only given of themſelves? Where then ſhall we begin to judge? for every extraordinary Miſſion is vain and uſeleſs, if it brings not its Proof and Evi<g ref="char:EOLhyphen"/>dence to thoſe in favour of whom it is ſent. Shall we know their Authority by their Miracles, by their Works, or by their Doctrine? Their Miracles were never known; the Works of ſuch as are Enemies
+<pb n="15" facs="tcp:65173:9"/>to Virginity, to Vows of Chaſtity, Faſting, Abſtinence, Auſterities, Penance, Confeſſion of Sins, and to the Pains requir'd for their Expiation, are too oppoſite to the Spirit of the Goſpel, either to perſwade or edifie. Their Doctrine ſuppoſes their Miſſion, as St. <hi>Paul</hi> tells us, and therefore proves it not: for <hi>How ſhall they Preach,</hi> ſaith he,<note place="margin">Rom. 10.15.</note> 
+               <hi>un<g ref="char:EOLhyphen"/>leſs they be ſent?</hi> Without ſo much as Examining this Doctrine to the bottom, their Diviſions, and the Contradictions that were between themſelves, and remain to this Day among their Followers, in the chief Myſteries of Faith, are they not whol<g ref="char:EOLhyphen"/>ly oppoſite to Truth, and the Unity of the Spirit of God? <hi>Luther</hi> will have it, That in the <hi>Sacrament</hi> of the <hi>Lord's Supper,</hi> be<g ref="char:EOLhyphen"/>ſides the Bread, the Body of <hi>Chriſt</hi> is really, truly, and corporeally contain'd. <hi>Calvin</hi> denies that the Body of <hi>Jeſus Chriſt</hi> is contain'd in the <hi>Sacrament,</hi> but tells us it is however communicated there, and really and ſubſtantially receiv'd. <hi>Zuinglius</hi> on the contrary ſays, That <hi>Jeſus Chriſt</hi> is neither contain'd, nor receiv'd, nor communicated in or by the <hi>Sacrament,</hi> but only the Figure
+<pb n="16" facs="tcp:65173:10"/>of <hi>Chriſt</hi>'s Body, and the Effects of his <hi>Death</hi> and <hi>Paſſion.</hi> Did the Apoſtles and Evangeliſts of <hi>Jeſus Chriſt</hi> teach after this manner? Do we find among them Con<g ref="char:EOLhyphen"/>tradictions in the Myſteries of Faith, or in their Doctrine? What then, Sir, would you have us think of theſe three Apoſtles and Evangeliſts of your <hi>Reformation?</hi> Into which of their Countries (for every one of them has his own particular) would you have us go to live in the Profeſſion of the Truth, as you adviſe us in your Letter? For 'tis in this Sence we underſtand the Re<g ref="char:EOLhyphen"/>ſolution which you cunningly ſuppoſe we have made, to ſtay in the Boſom of <hi>Rome</hi> only till we have put our Affairs in order. It ſeldom appertains to any but to God, to penetrate ſo deep into the Hearts of Men: However, Sir, make uſe of what time you have to determine to which of your three Evangeliſts we ought to ſubmit, and which we ought to relie upon. Otherwiſe be not ſurpris'd that we live and enjoy one another in that <hi>City,</hi> where generally all our Fathers and yours, excepting it may be two or three ſince
+<pb n="17" facs="tcp:65173:10"/>
+               <hi>Jeſus Chriſt</hi> and his Apoſtles, have been bred up; that we live peaceably in the ſame <hi>Church</hi> in which they liv'd, and therein ſeek that Salvation we hope they have found.</p>
+            <p>
+               <hi>Permitted to be Printed. </hi>
+            </p>
+            <closer>
+               <dateline>Given <date>this Sixth of February, 1686.</date>
+               </dateline>
+               <signed>DE LA REYNIE.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
